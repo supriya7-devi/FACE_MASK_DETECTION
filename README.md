@@ -78,7 +78,7 @@ Face_Mask_Detection/
 ## 🚀 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/AA/Face_Mask_Detection.git
+git clone https://github.com/supriya7-devi/Face_Mask_Detection.git
 ```
 Install the required libraries:
 ```bash
